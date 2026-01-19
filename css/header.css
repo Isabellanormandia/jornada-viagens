@@ -13,3 +13,7 @@ header {
   display: inline-block;
   margin: 37px 0 0 48px;
 }
+
+nav{
+  display: none;
+}
