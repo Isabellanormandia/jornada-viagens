@@ -43,3 +43,9 @@ nav{
   color: white;
   text-decoration: none;
 }
+
+@media screen and (min-width: 768px) {
+  body{
+    background-color: blue;
+  }
+}
