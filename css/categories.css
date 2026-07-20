@@ -1,13 +1,8 @@
-.categories .section-title{
-    width: 312px;
-    margin: 0 auto;
-}
-
 .categories-cards{
     display: flex;
     flex-direction: column;
     align-items: center;
-    gap: 24px;
+    gap: 16px;
     margin-top: 64px;
 }
 
@@ -61,7 +56,7 @@
 }
 
 @media screen and (min-width: 1440px) {
-    .categories-cards .card{
+    .categories-cards a.card{
         width: 280px;
     }
 }
